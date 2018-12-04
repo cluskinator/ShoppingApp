@@ -1,0 +1,21 @@
+#img1 {
+    border-width: 5px;
+    border-color: blue;
+    border-style: dashed
+  }
+
+#img2 {
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid
+}
+
+#img3 {
+    border-width: 5px;
+    border-color: blue;
+    border-style: dotted
+}
+
+#container {
+    margin-left: 15%;
+}
