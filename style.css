@@ -1,18 +1,18 @@
 #img1 {
     border-width: 5px;
-    border-color: blue;
+    border-color: red;
     border-style: dashed
   }
 
 #img2 {
     border-width: 5px;
-    border-color: blue;
+    border-color: red;
     border-style: solid
 }
 
 #img3 {
     border-width: 5px;
-    border-color: blue;
+    border-color: red;
     border-style: dotted
 }
 
